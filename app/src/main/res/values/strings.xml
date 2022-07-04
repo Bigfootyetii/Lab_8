@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab_8</string>
+    <string name="aq">Aquarius</string>
+    <string name="cr">Crystal ball</string>
+    <string name="home">Home</string>
+    <string name="dad">DadJoke</string>
+    <string name="exit">Exit</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="joke">What\'s the difference between Dubai and Abu Dhabi?
+People in Dubai don\'t like the Flintstones but people in Abu Dhabi dooooooooo!</string>
+</resources>
